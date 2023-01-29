@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"MARSDEV": "${HOME}/workspace/gendev/mars"
+		}
+	],
+	"settings": {
+	}
+}

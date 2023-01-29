@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/inc",
+                "${workspaceFolder}/res",
+                "${config:MARSDEV}/m68k-elf/include",
+                "${config:MARSDEV}/m68k-elf/lib/gcc/m68k-elf/12.2.0/include"
+            ],
+            "defines": [],
+            "compilerPath": "${config:MARSDEV}/m68k-elf/bin/m68k-elf-gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
