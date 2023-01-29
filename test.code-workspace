@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": ".",
-			"MARSDEV": "${HOME}/workspace/gendev/mars"
+			"path": "."
 		}
 	],
 	"settings": {
+		"MARSDEV": "${HOME}/workspace/gendev/mars"
 	}
 }
